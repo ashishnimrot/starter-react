@@ -1,0 +1,1 @@
+export type CFieldType = 'textField' | 'date' | 'multiSelect' | 'list' | 'manufTech' | 'kc' | 'url';
